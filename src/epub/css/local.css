@@ -2,8 +2,9 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 table{
-	width: 100%;
 	border-collapse: collapse;
+	font-variant-numeric: tabular-nums;
+	width: 100%;
 }
 
 td{
@@ -11,17 +12,17 @@ td{
 }
 
 td + td{
-	text-align: right;
 	padding-left: 0.5em;
+	text-align: right;
 }
 
-tfoot{
+tfoot td:first-child{
 	font-variant: small-caps;
 }
 
 tfoot td + td{
-	border-top: 1px solid;
 	border-bottom: 1px solid;
+	border-top: 1px solid;
 }
 
 header{
