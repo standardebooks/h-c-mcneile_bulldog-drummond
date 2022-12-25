@@ -45,9 +45,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Bulldog Drummond</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A demobbed officer places a newspaper advert for adventure and finds a conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Captain Hugh Drummond, &lt;abbr&gt;D.S.O.&lt;/abbr&gt;, &lt;abbr&gt;M.C.&lt;/abbr&gt;, is back from the war, and is bored. Seeking adventure, he places a newspaper advert with services offered in exchange for excitement, and a reply from a woman needing help piques his interest. What follows is a back and forth engagement with a shadowy criminal cabal determined to cause mayhem for the British establishment, and to profit from it. Luckily for Britain, “Bulldog” Drummond is up for the fight.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Bulldog Drummond&lt;/i&gt; was the first book of ten by &lt;a href="https://standardebooks.org/ebooks/h-c-mcneile"&gt;&lt;abbr&gt;H. C.&lt;/abbr&gt; McNeile&lt;/a&gt; (writing under the pen name of “Sapper”) to deal with the eponymous hero; &lt;a href="https://standardebooks.org/collections/bulldog-drummond"&gt;a series&lt;/a&gt; that was later expanded to nineteen novels and many further plays, films and short stories by later authors. It was an immediate success, with its combination of gentlemanly daring and high melodrama striking a chord with the public of the time. Drummond’s appeal to the modern audience has faded: he’s a character of his time, with views that reflect the British Empire’s thinking of the 1920s. His influence, however, lives on in later men of adventure, including James Bond and Biggles.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49935</dc:source>
