@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/h-c-mcneile/bulldog-drummond</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-12-26T05:50:05Z</dc:date>
+		<meta property="dcterms:modified">2022-12-26T05:50:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,10 +45,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Bulldog Drummond</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A demobbed officer places a newspaper advert for adventure and finds a conspiracy.</dc:description>
+		<dc:description id="description">A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Captain Hugh Drummond, &lt;abbr&gt;D.S.O.&lt;/abbr&gt;, &lt;abbr&gt;M.C.&lt;/abbr&gt;, is back from the war, and is bored. Seeking adventure, he places a newspaper advert with services offered in exchange for excitement, and a reply from a woman needing help piques his interest. What follows is a back and forth engagement with a shadowy criminal cabal determined to cause mayhem for the British establishment, and to profit from it. Luckily for Britain, “Bulldog” Drummond is up for the fight.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Bulldog Drummond&lt;/i&gt; was the first book of ten by &lt;a href="https://standardebooks.org/ebooks/h-c-mcneile"&gt;&lt;abbr&gt;H. C.&lt;/abbr&gt; McNeile&lt;/a&gt; (writing under the pen name of “Sapper”) to deal with the eponymous hero; &lt;a href="https://standardebooks.org/collections/bulldog-drummond"&gt;a series&lt;/a&gt; that was later expanded to nineteen novels and many further plays, films and short stories by later authors. It was an immediate success, with its combination of gentlemanly daring and high melodrama striking a chord with the public of the time. Drummond’s appeal to the modern audience has faded: he’s a character of his time, with views that reflect the British Empire’s thinking of the 1920s. His influence, however, lives on in later men of adventure, including James Bond and Biggles.&lt;/p&gt;
+			&lt;p&gt;Captain Hugh Drummond, &lt;abbr&gt;D.S.O.&lt;/abbr&gt;, &lt;abbr&gt;M.C.&lt;/abbr&gt;, is back from the war, and is bored. Seeking adventure, he places a newspaper advert with services offered in exchange for excitement, and a reply from a woman needing help piques his interest. What follows is a back and forth engagement with a shadowy criminal cabal determined to cause mayhem for the British establishment—and to profit from it. Luckily for Britain, “Bulldog” Drummond is up for the fight.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Bulldog Drummond&lt;/i&gt; was the first book of ten by &lt;a href="https://standardebooks.org/ebooks/h-c-mcneile"&gt;&lt;abbr&gt;H. C.&lt;/abbr&gt; McNeile&lt;/a&gt; (writing under the pen name of “Sapper”) to deal with the eponymous hero; &lt;a href="https://standardebooks.org/collections/bulldog-drummond"&gt;a series&lt;/a&gt; that was later expanded to nineteen novels and many further plays, films and short stories by later authors. The novel was an immediate success, with its combination of gentlemanly daring and high melodrama striking a chord with the public of the time. Drummond’s appeal to the modern audience has faded: he’s a character of his time, with views that reflect the British Empire’s thinking of the 1920s. His influence, however, lives on in later men of adventure, including James Bond and Biggles.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49935</dc:source>
@@ -57,8 +57,8 @@
 			• “AAA” in chapter 2’s telegram is a WW1-era convention for a full stop: https://www.greatwarforum.org/topic/98623-clarification-of-acronym/
 			• “IT” / “ITS” in chapter 2 is probably an initialism, but I can’t find its meaning.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">82374</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bulldog_Drummond_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-c-mcneile_bulldog-drummond</meta>
 		<dc:creator id="author">H. C. McNeile</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
