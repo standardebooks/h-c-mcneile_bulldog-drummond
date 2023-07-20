@@ -45,6 +45,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Bulldog Drummond</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A demobilized officer places a newspaper advert for adventure, and its response leads him to discover a conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Captain Hugh Drummond, &lt;abbr&gt;D.S.O.&lt;/abbr&gt;, &lt;abbr&gt;M.C.&lt;/abbr&gt;, is back from the war, and is bored. Seeking adventure, he places a newspaper advert with services offered in exchange for excitement, and a reply from a woman needing help piques his interest. What follows is a back and forth engagement with a shadowy criminal cabal determined to cause mayhem for the British establishment—and to profit from it. Luckily for Britain, “Bulldog” Drummond is up for the fight.&lt;/p&gt;
