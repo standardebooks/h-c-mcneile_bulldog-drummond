@@ -5,5 +5,9 @@
 			<code>t-033</code>
 			<reason>Dash and newline is correct for the ripped paper.</reason>
 		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Ripped paper is not a typo.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
