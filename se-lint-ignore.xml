@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>Dash and newline is correct for the ripped paper.</reason>
 		</ignore>
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>Ripped paper is not a typo.</reason>
 		</ignore>
 	</file>
