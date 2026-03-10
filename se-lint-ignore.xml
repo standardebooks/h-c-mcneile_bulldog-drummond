@@ -2,9 +2,11 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore code="t-033">
+			<line>49</line>
 			<reason>Dash and newline is correct for the ripped paper.</reason>
 		</ignore>
 		<ignore code="y-035">
+			<line>49</line>
 			<reason>Ripped paper is not a typo.</reason>
 		</ignore>
 	</file>
