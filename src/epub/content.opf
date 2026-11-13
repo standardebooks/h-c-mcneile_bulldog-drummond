@@ -73,7 +73,7 @@
 		<dc:contributor id="artist">Christopher R. W. Nevinson</dc:contributor>
 		<meta property="file-as" refines="#artist">Nevinson, Christopher R. W.</meta>
 		<meta property="schema:alternateName" refines="#artist">Christopher Richard Wynne Nevinson</meta>
-		<link href="https://en.wikipedia.org/wiki/Christopher_R._W._Nevinson" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/C._R._W._Nevinson" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86139912.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
